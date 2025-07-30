@@ -1,4 +1,4 @@
-#DQN LunarLander
+#DQN LunarLander (diese README am besten in der "code" Ansicht betrachten)
 
 Dieses Projekt zeigt, wie ein Deep Q-Network (DQN) auf die Umgebung 'LunarLander-v2' von OpenAI Gym angewendet wird. Ziel ist es, einen Agenten zu trainieren, der möglichst stabil und sicher landet.
 
